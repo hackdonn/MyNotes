@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">MyNotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="add_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="saved">New note saved!</string>
+    <string name="not_saved">Note not saved!</string>
+    <string name="action_sync">Sync</string>
+    <string name="sign_in">Sign-in</string>
+
+    <!--<string name="facebook_application_id" translatable="false">569261034163918</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb569261034163918</string>
+
+    <string name="twitter_consumer_key" translatable="false">dJJCSd2hkdHcZubW1wvbhU8dR</string>
+    <string name="twitter_consumer_secret" translatable="false">w7TkZElTRuUcxXwPEHoxCTxAFaeOH5qlwOKvhpMVePOdAeSqk3</string>
+-->
+    <string name="skip">Skip</string>
+    <string name="sign_in_default_message">Sign-in to get started</string>
+    <string name="logout">Logout</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
